@@ -9,7 +9,6 @@ int main (){
   t+=4;
   t+=5;
   t+=6;
-  unsigned int k = 10;
-  unsigned int q = 100;
+  t+=10000;
   return 0;
 }
