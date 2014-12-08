@@ -2,7 +2,7 @@
 
 int main (){
 
-  unsigned int k = 0;
-  k++;
+  unsigned int t = 0;
+  t++;
   return 0;
 }
